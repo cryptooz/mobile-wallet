@@ -1,6 +1,6 @@
 import { Component, EventEmitter, Input, OnInit, Output } from "@angular/core";
 import { ModalController } from "@ionic/angular";
-import { Network } from "ark-ts/model";
+import { Network } from "bpl-ts-cryptooz/model";
 import lodash from "lodash";
 
 import { CustomNetworkCreateModal } from "@/app/modals/custom-network-create/custom-network-create";

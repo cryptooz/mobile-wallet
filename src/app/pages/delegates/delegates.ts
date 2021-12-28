@@ -6,7 +6,7 @@ import {
 	NavController,
 	Platform,
 } from "@ionic/angular";
-import { Delegate, TransactionVote, VoteType } from "ark-ts";
+import { Delegate, TransactionVote, VoteType } from "bpl-ts-cryptooz";
 import { Subject } from "rxjs";
 import { takeUntil, tap } from "rxjs/operators";
 

@@ -1,7 +1,7 @@
 import { Component } from "@angular/core";
 import { ActionSheetController, ModalController } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { NetworkType } from "ark-ts";
+import { NetworkType } from "bpl-ts-cryptooz";
 import lodash from "lodash";
 
 import { CustomNetworkCreateModal } from "@/app/modals/custom-network-create/custom-network-create";

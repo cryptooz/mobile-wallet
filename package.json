@@ -1,8 +1,8 @@
 {
-	"name": "ark-mobile",
+	"name": "bpl-mobile",
 	"version": "1.8.6",
-	"author": "Ark Ecosystem <mobile@ark.io>",
-	"homepage": "https://github.com/ArkEcosystem/mobile-wallet#readme",
+	"author": "BPL Wallet <info@blockpool.io>",
+	"homepage": "https://github.com/cryptooz/mobile-wallet#readme",
 	"scripts": {
 		"ng": "ng",
 		"start": "ng serve",
@@ -52,7 +52,7 @@
 		"@ngx-translate/http-loader": "^4.0.0",
 		"angular-html-parser": "^1.4.0",
 		"angular2-qrcode": "^2.0.3",
-		"ark-ts": "^0.4.1",
+		"bpl-ts-cryptooz": "^0.1.0",
 		"bcryptjs": "^2.4.3",
 		"big-integer": "^1.6.48",
 		"bignumber.js": "^9.0.0",

@@ -1,6 +1,6 @@
 import { Injectable } from "@angular/core";
-import { Delegate } from "ark-ts";
-import { Network, NetworkType } from "ark-ts/model";
+import { Delegate } from "bpl-ts-cryptooz";
+import { Network, NetworkType } from "bpl-ts-cryptooz/model";
 import * as lodash from "lodash";
 import { EMPTY, Observable, Subject, throwError } from "rxjs";
 import { debounceTime, map } from "rxjs/operators";

@@ -1,8 +1,8 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import * as ArkCrypto from "@arkecosystem/crypto";
-import * as arkts from "ark-ts";
-import arktsConfig from "ark-ts/config";
+import * as arkts from "bpl-ts-cryptooz";
+import arktsConfig from "bpl-ts-cryptooz/config";
 import lodash from "lodash";
 import moment from "moment";
 import { EMPTY, Observable, of, Subject, throwError, zip } from "rxjs";

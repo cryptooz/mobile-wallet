@@ -10,7 +10,7 @@ import {
 	PeerResponse,
 	TransactionPostResponse,
 	TransactionResponse,
-} from "ark-ts";
+} from "bpl-ts-cryptooz";
 import { Observable, of } from "rxjs";
 import { tap, timeout } from "rxjs/operators";
 

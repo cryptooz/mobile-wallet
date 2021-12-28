@@ -1,5 +1,5 @@
 import { Injectable } from "@angular/core";
-import { Delegate, Network } from "ark-ts/model";
+import { Delegate, Network } from "bpl-ts-cryptooz/model";
 import { Observable, Subject } from "rxjs";
 
 import { Profile, StoredNetwork, Wallet, WalletKeys } from "@/models/model";

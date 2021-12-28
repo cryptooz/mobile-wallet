@@ -6,7 +6,7 @@ import { ScreenOrientation } from "@ionic-native/screen-orientation/ngx";
 import { SocialSharing } from "@ionic-native/social-sharing/ngx";
 import { SplashScreen } from "@ionic-native/splash-screen/ngx";
 import { StatusBar } from "@ionic-native/status-bar/ngx";
-import { Delegate, Network as ArkNetwork } from "ark-ts";
+import { Delegate, Network as ArkNetwork } from "bpl-ts-cryptooz";
 import { Observable, of, Subject } from "rxjs";
 
 import { Profile, StoredNetwork, Wallet, WalletKeys } from "@/models/model";

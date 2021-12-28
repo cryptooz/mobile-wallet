@@ -11,7 +11,7 @@ import {
 	NavController,
 } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { Fees } from "ark-ts";
+import { Fees } from "bpl-ts-cryptooz";
 import lodash from "lodash";
 import { Subject, throwError } from "rxjs";
 import {

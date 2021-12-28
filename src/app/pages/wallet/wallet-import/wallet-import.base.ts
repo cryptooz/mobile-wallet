@@ -1,6 +1,6 @@
 import { ActivatedRoute } from "@angular/router";
 import { ModalController, NavController } from "@ionic/angular";
-import { PrivateKey, PublicKey } from "ark-ts";
+import { PrivateKey, PublicKey } from "bpl-ts-cryptooz";
 import * as bip39 from "bip39";
 import { EMPTY, Observable } from "rxjs";
 import { finalize } from "rxjs/operators";

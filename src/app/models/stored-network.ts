@@ -1,4 +1,4 @@
-import { Network } from "ark-ts";
+import { Network } from "bpl-ts-cryptooz";
 import URL from "url";
 
 import { PeerApiResponse } from "@/utils/ark-client";

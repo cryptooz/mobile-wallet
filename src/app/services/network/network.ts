@@ -1,6 +1,6 @@
 import { Injectable } from "@angular/core";
-import { Network } from "ark-ts";
-import { PublicKey } from "ark-ts/core";
+import { Network } from "bpl-ts-cryptooz";
+import { PublicKey } from "bpl-ts-cryptooz/core";
 import { isNil } from "lodash";
 
 import { UserDataService } from "@/services/user-data/user-data.interface";

@@ -1,7 +1,7 @@
 import { Component, NgZone, OnDestroy, OnInit } from "@angular/core";
 import { LoadingController } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { Network, Peer } from "ark-ts";
+import { Network, Peer } from "bpl-ts-cryptooz";
 import { Subject, throwError } from "rxjs";
 import { catchError, debounceTime, takeUntil, tap } from "rxjs/operators";
 

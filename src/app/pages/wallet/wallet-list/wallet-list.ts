@@ -7,7 +7,7 @@ import {
 	NavController,
 } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { Network } from "ark-ts/model";
+import { Network } from "bpl-ts-cryptooz/model";
 import lodash from "lodash";
 import { BaseChartDirective } from "ng2-charts";
 import { Subject } from "rxjs";

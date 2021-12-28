@@ -1,7 +1,7 @@
 import { Component, NgZone, OnDestroy, OnInit } from "@angular/core";
 import { ModalController, NavController } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { Network } from "ark-ts/model";
+import { Network } from "bpl-ts-cryptooz/model";
 import lodash from "lodash";
 import { Subject } from "rxjs";
 import { takeUntil, tap } from "rxjs/operators";

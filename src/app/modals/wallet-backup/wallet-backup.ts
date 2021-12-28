@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from "@angular/core";
 import { ModalController, NavController } from "@ionic/angular";
-import { PrivateKey } from "ark-ts/core";
+import { PrivateKey } from "bpl-ts-cryptooz/core";
 import * as bip39 from "bip39";
 
 import { AccountBackup, WalletKeys } from "@/models/model";

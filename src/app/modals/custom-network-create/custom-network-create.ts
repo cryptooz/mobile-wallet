@@ -1,7 +1,7 @@
 import { HttpClient } from "@angular/common/http";
 import { Component } from "@angular/core";
 import { LoadingController, ModalController } from "@ionic/angular";
-import { Network, Peer } from "ark-ts";
+import { Network, Peer } from "bpl-ts-cryptooz";
 import lodash from "lodash";
 import { finalize } from "rxjs/operators";
 

@@ -5,7 +5,7 @@ import {
 	NavController,
 	NavParams,
 } from "@ionic/angular";
-import { Crypto } from "ark-ts/utils";
+import { Crypto } from "bpl-ts-cryptooz/utils";
 
 @Component({
 	selector: "modal-generate-entropy",

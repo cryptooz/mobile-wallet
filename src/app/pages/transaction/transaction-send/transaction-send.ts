@@ -7,8 +7,8 @@ import {
 	ModalController,
 } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { TransactionSend, TransactionType } from "ark-ts";
-import { PublicKey } from "ark-ts/core";
+import { TransactionSend, TransactionType } from "bpl-ts-cryptooz";
+import { PublicKey } from "bpl-ts-cryptooz/core";
 import { Subject } from "rxjs";
 import { takeUntil } from "rxjs/operators";
 

@@ -6,8 +6,8 @@ import {
 } from "@ionic/angular";
 import { Platform } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { PublicKey } from "ark-ts/core";
-import { NetworkType } from "ark-ts/model";
+import { PublicKey } from "bpl-ts-cryptooz/core";
+import { NetworkType } from "bpl-ts-cryptooz/model";
 import lodash from "lodash";
 import { Subject } from "rxjs";
 import { takeUntil } from "rxjs/operators";

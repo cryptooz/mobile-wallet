@@ -1,4 +1,4 @@
-import { Account } from "ark-ts/model";
+import { Account } from "bpl-ts-cryptooz/model";
 
 import * as constants from "@/app/app.constants";
 import { MarketCurrency } from "@/models/market";

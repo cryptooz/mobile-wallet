@@ -1,5 +1,5 @@
 import { Interfaces } from "@arkecosystem/crypto";
-import { Transaction as TransactionModel } from "ark-ts/model";
+import { Transaction as TransactionModel } from "bpl-ts-cryptooz/model";
 import moment from "moment";
 
 import {

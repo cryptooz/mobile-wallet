@@ -4,7 +4,7 @@ import {
 	FormControl,
 	FormGroupDirective,
 } from "@angular/forms";
-import { Network } from "ark-ts/model";
+import { Network } from "bpl-ts-cryptooz/model";
 
 import * as constants from "@/app/app.constants";
 import { MarketCurrency } from "@/models/model";

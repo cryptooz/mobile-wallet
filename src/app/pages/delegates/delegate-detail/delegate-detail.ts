@@ -8,7 +8,7 @@ import {
 	NavParams,
 } from "@ionic/angular";
 import { TranslateService } from "@ngx-translate/core";
-import { Delegate, Network, TransactionType } from "ark-ts";
+import { Delegate, Network, TransactionType } from "bpl-ts-cryptooz";
 import lodash from "lodash";
 import { Subject } from "rxjs";
 import { takeUntil } from "rxjs/operators";
