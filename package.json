@@ -1,6 +1,6 @@
 {
 	"name": "bpl-mobile",
-	"version": "1.8.6",
+	"version": "1.0.0",
 	"author": "BPL Wallet <info@blockpool.io>",
 	"homepage": "https://github.com/cryptooz/mobile-wallet#readme",
 	"scripts": {
