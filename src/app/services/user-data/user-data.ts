@@ -21,7 +21,7 @@ export class UserDataServiceImpl implements UserDataService {
 	public get isDevNet(): boolean {
 		return (
 			this.currentNetwork &&
-			this.currentNetwork.type === NetworkType.Devnet
+			this.currentNetwork.type === NetworkType.Audiocoin
 		);
 	}
 
