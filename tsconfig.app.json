@@ -7,6 +7,7 @@
 	},
 	"files": ["src/main.ts", "src/polyfills.ts", "src/zone-flags.ts"],
 	"include": [
-		"node_modules/bpl-ts-cryptooz/node_modules/json-typescript-mapper/libs/utils.ts"
+		"node_modules/bpl-ts-cryptooz/node_modules/json-typescript-mapper/libs/utils.ts",
+		"node_modules/json-typescript-mapper/libs/utils.ts"
 	]
 }
