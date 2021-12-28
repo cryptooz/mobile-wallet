@@ -106,9 +106,9 @@
 		"WELCOME": "Welcome Aboard"
 	},
 	"SIGN_IN_PAGE": {
-		"ARK_WALLET": "ARK Wallet",
+		"ARK_WALLET": "BPL Wallet",
 		"CREATE_PROFILE": "Create a profile",
-		"SLOGAN": "Welcome to the ARK Ecosystem"
+		"SLOGAN": "Welcome to the BPL Wallet"
 	},
 	"SIGN_OUT_PROFILE_TEXT": "Sign out of Profile?",
 	"MARKETS_PAGE": {
